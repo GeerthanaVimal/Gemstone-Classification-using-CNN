@@ -1,1 +1,1 @@
-# Gemstone-Classification-Using-CNN
+# Gemstone-Classification-using-CNN
